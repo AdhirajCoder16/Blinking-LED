@@ -1,8 +1,4 @@
-/***********************************************************
-File name:   01_blinkingLed.ino
-Description: LED blinks ON and OFF.
-Website: www.quadstore.in
-***********************************************************/
+
 int ledPin=8; //definition digital 8 pins as pin to control the LED
 void setup()
 {
