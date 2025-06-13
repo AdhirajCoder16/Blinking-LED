@@ -2,7 +2,7 @@
 # Lesson 01 - Blinking LED 
 
  Objective
-Learn to blink an LED using Arduino UNO — your first embedded system project!
+Learn to blink an LED using Arduino UNO —  embedded system project!
 
 Components
 - 1x Arduino UNO R3
